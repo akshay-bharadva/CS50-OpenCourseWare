@@ -1,8 +1,6 @@
-# ask for user's name
+def great(name):
+    print(f"Good Day, {name}!")
+
+
 name = input("What's your name? ")
-
-# remove space and capitalize name
-name = name.strip().title()
-
-# say hello to user
-print(f"hello, {name}")
+great(name)
