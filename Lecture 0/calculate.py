@@ -1,13 +1,8 @@
-x = 100
-y = 20
+x = int(input("Enter value of x: "))
+y = int(input("Enter value of y: "))
 
-z = x + y
-print(f"value of z = {z}")
-z = x * y
-print(f"value of z = {z}")
-z = x / y
-print(f"value of z = {z}")
-z = x - y
-print(f"value of z = {z}")
-z = x % y
-print(f"value of z = {z}")
+print(f"value of x + y = {x + y}")
+print(f"value of x * y = {x * y}")
+print(f"value of x / y = {x / y}")
+print(f"value of x - y = {x - y}")
+print(f"value of x % y = {x % y}")
