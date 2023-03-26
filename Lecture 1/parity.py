@@ -1,8 +1,14 @@
 # / * + - %
+def main():
+    x = int(input("What's x? "))
+    print(even_or_odd(x))
 
-x = int(input("What's x? "))
 
-if x % 2 == 0:
-    print(f"{x} is even number...")
-else:
-    print(f"{x} is odd number...")
+def even_or_odd(x):
+    if x % 2 == 0:
+        return f"{x} is even number..."
+    else:
+        return f"{x} is odd number..."
+
+
+main()
