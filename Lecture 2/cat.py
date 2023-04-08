@@ -1,5 +1,2 @@
-count = 1
-
-while count <= 3:
+for i in [0, 1, 2]:
     print("meow")
-    count = count+1
