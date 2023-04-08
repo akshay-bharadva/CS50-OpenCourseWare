@@ -1,2 +1,6 @@
-for _ in range(3):
-    print("meow")
+while True:
+    i = int(input("What's i?"))
+    if i < 0:
+        continue
+    else:
+        break
