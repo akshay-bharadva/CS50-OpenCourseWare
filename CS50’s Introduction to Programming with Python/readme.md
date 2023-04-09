@@ -20,3 +20,15 @@
   - [2nd submission](https://submit.cs50.io/check50/61203f3ecf52147e22e803a117df593d9a2ec554)
 - [interpreter](https://submit.cs50.io/check50/fce7acad7666adcae420b2121ae26a31d88fbfbf)
 - [meal](https://submit.cs50.io/check50/f1b5691b94604f084c9bc59fd84d35102ad8ea27)
+
+### Problem Set 2
+
+- [camelCase](https://submit.cs50.io/check50/672db65cfaa589a434dc7ac7680aaea888ad8fbf)
+- [coke](https://submit.cs50.io/check50/3583a4557f9868de24e5b8b0b6d0f6aaa8c404cb)
+- [twttr](https://submit.cs50.io/check50/6eac66ac1a2cd80cce01f089f5423bbbd1b23be0)
+- plates
+  - [1st submission](https://submit.cs50.io/check50/2c63d7cce55d8c8a16cb67007668952a5563cfe5)
+  - [2nd submission](https://submit.cs50.io/check50/73995c50c07841748836bd6c6fdf1272a98e37af)
+- nutrition
+  - [1st submission](https://submit.cs50.io/check50/304850f96376dc5be8f608a571e300389dea22d5)
+  - [2nd submission](https://submit.cs50.io/check50/57ada2424bf0db89d89988ab4cc0467e976e754c)
