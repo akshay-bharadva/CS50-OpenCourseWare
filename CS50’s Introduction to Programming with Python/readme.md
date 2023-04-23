@@ -34,3 +34,13 @@
   - [2nd submission](https://submit.cs50.io/check50/57ada2424bf0db89d89988ab4cc0467e976e754c)
 
 ### Problem Set 3
+- fuel
+  - [1st submission](https://submit.cs50.io/check50/9320eaced830fd660b6db66f97d696eb8633a60b)
+  - [2nd submission](https://submit.cs50.io/check50/ace3da564cce18b46b35345d9c02abfc5b26faa5)
+- taqueria
+  - [1st submission](https://submit.cs50.io/check50/ec3263a98c9456f3c0922e325f4a43b1bd3b55e0)
+  - [2nd submission](https://submit.cs50.io/check50/317c410acbd1446febd7b5779837525810addf4d)
+- [grocery](https://submit.cs50.io/check50/0d8eaa2398512e226e5451135968fd49fd7f1c22)
+- outdated
+  - [1st submission](https://submit.cs50.io/check50/6e62f03d5f243cbe8af1a6ec4e7f92f13649ace6)
+  - [2nd submission](https://submit.cs50.io/check50/a71e31f6882def35396834b6dcd250833643c325)
