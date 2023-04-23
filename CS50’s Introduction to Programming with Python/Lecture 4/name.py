@@ -1,3 +1,7 @@
 import sys
 
-print(sys.argv)
+
+try:
+  print(f"Hello, {sys.argv[1]}")
+except:
+  print("Too few argument")
