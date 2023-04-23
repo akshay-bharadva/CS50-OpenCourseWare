@@ -1,4 +1,13 @@
 from random import randint
 
-number = randint(1,10)
-print(number)
+
+def main():
+    number = generateRandomInt(1, 100)
+    print(number)
+
+
+def generateRandomInt(a, b):
+    return randint(a, b)
+
+
+main()
