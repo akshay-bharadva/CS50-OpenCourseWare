@@ -34,6 +34,7 @@
   - [2nd submission](https://submit.cs50.io/check50/57ada2424bf0db89d89988ab4cc0467e976e754c)
 
 ### Problem Set 3
+
 - fuel
   - [1st submission](https://submit.cs50.io/check50/9320eaced830fd660b6db66f97d696eb8633a60b)
   - [2nd submission](https://submit.cs50.io/check50/ace3da564cce18b46b35345d9c02abfc5b26faa5)
@@ -44,3 +45,14 @@
 - outdated
   - [1st submission](https://submit.cs50.io/check50/6e62f03d5f243cbe8af1a6ec4e7f92f13649ace6)
   - [2nd submission](https://submit.cs50.io/check50/a71e31f6882def35396834b6dcd250833643c325)
+
+### Problem Set 4
+
+- [emojize](https://submit.cs50.io/check50/0a100cfdd3d7ae7d14010bc6e518df96f842d23a)
+- [figlet](https://submit.cs50.io/check50/aecbddb965ea9b7627107adf45f4006f373d58e8)
+- [adieu](https://submit.cs50.io/check50/62d14c23d4f11640a9b16021bdb059cd4fce27ff)
+- game
+  - [1st submission](https://submit.cs50.io/check50/d4e65bb1561478a7ca6ca91509a6bfe770c3fcd6)
+- [professor](https://submit.cs50.io/check50/0e6b70cee74450685db11a998f1bdfbe9f32af3e)
+- [bitcoin](https://submit.cs50.io/check50/63ce4dbd597d53a923feebd59619d07e38aeb7de)
+
