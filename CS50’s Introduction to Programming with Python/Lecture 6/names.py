@@ -1,4 +1,5 @@
 file_name = "names.txt"
+names = []
 
 
 def main():
@@ -16,7 +17,11 @@ def write_to_file():
 def read_file():
     with open(file_name, "r") as file:
         for line in file:
-            print(f"hello, {line.rstrip()}")
+            names.append(line.rstrip())
+
+    for name in sorted(names):
+        print(f"hello, {name}")
+
 
 if __name__ == "__main__":
     main()
