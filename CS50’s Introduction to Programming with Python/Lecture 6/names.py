@@ -15,8 +15,7 @@ def write_to_file():
 
 def read_file():
     with open(file_name, "r") as file:
-        lines = file.readlines()
-        for line in lines:
+        for line in file:
             print(f"hello, {line.rstrip()}")
 
 if __name__ == "__main__":
