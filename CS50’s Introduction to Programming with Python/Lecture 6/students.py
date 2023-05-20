@@ -1,8 +1,10 @@
+import csv
+
 students = []
 
 with open("students.csv") as file:
-    for line in file:
-        name, study = line.rstrip().split(",")
+    reader = csv.reader(file)
+    for name, study in reader:
         student = {
             "name":name,
             "study":study
