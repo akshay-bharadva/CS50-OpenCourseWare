@@ -9,8 +9,5 @@ with open("students.csv") as file:
         }
         students.append(student)
 
-def get_name(student):
-    return student['name']
-
-for student in sorted(students, key=get_name):
+for student in sorted(students, key=lambda param: param["name"]):
     print(f"{student['name']} studied {student['study']}")
