@@ -1,4 +1,11 @@
+students = []
+
 with open("students.csv") as file:
     for line in file:
         name, study = line.rstrip().split(",")
-        print(f"{name} studied {study}")
+        student = {}
+        student["name"] = name
+        student["study"] = study
+        students.append(student)
+
+print(students)
