@@ -3,11 +3,11 @@ import csv
 students = []
 
 with open("students.csv") as file:
-    reader = csv.reader(file)
-    for name, study in reader:
+    reader = csv.DictReader(file)
+    for row in reader:
         student = {
-            "name":name,
-            "study":study
+            "name":row["name"],
+            "study":row["study"]
         }
         students.append(student)
 
