@@ -59,13 +59,13 @@
 ### Problem Set 5
 
 - test_twttr
-  -[1st Submission](https://submit.cs50.io/check50/b58a3143662e96d3ae505ed1f9df3f87e97fdd50)
-  -[2nd Submission](https://submit.cs50.io/check50/7ad14c6da2b2673fa510229f1574d9c2403b985d)
-  -[3rd Submission](https://submit.cs50.io/check50/38e3617e3714212cf8d5de5eaa8a4041c4c1dad2)
+  - [1st Submission](https://submit.cs50.io/check50/b58a3143662e96d3ae505ed1f9df3f87e97fdd50)
+  - [2nd Submission](https://submit.cs50.io/check50/7ad14c6da2b2673fa510229f1574d9c2403b985d)
+  - [3rd Submission](https://submit.cs50.io/check50/38e3617e3714212cf8d5de5eaa8a4041c4c1dad2)
 - test_bank
-  -[1st Submission](https://submit.cs50.io/check50/c193896a599dcb9ff523221034136b96bed62fe8)
-  -[2nd Submission](https://submit.cs50.io/check50/4d7301794684298c270078894d1f00c9ce60a6d1)
+  - [1st Submission](https://submit.cs50.io/check50/c193896a599dcb9ff523221034136b96bed62fe8)
+  - [2nd Submission](https://submit.cs50.io/check50/4d7301794684298c270078894d1f00c9ce60a6d1)
 - test_plates
-  -[1st Submission](https://submit.cs50.io/check50/32605e7c171b4c66c7ef4cd02383faaf3588f922)
-  -[2nd Submission](https://submit.cs50.io/check50/c960b8b53b1731987386bb9ad24f403087680c36)
+  - [1st Submission](https://submit.cs50.io/check50/32605e7c171b4c66c7ef4cd02383faaf3588f922)
+  - [2nd Submission](https://submit.cs50.io/check50/c960b8b53b1731987386bb9ad24f403087680c36)
 - [test_fuel](https://submit.cs50.io/check50/3bf36be1c064bcf8afb89c2fc2b6a89327e462d2)
