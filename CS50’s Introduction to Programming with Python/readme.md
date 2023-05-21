@@ -69,3 +69,12 @@
   - [1st Submission](https://submit.cs50.io/check50/32605e7c171b4c66c7ef4cd02383faaf3588f922)
   - [2nd Submission](https://submit.cs50.io/check50/c960b8b53b1731987386bb9ad24f403087680c36)
 - [test_fuel](https://submit.cs50.io/check50/3bf36be1c064bcf8afb89c2fc2b6a89327e462d2)
+
+### Problem Set 6
+
+- [lines](https://submit.cs50.io/check50/323cdf124d1dcb7aafa590ded510bc89ffa1eeb7)
+- [pizza](https://submit.cs50.io/check50/0b41145e98bc761347f66607e1b621fe956b9db9)
+- scourgify
+  - [1st Submission](https://submit.cs50.io/check50/8d3d1a858f38e6c345aa853bed6aba6b1ea74117)
+  - [2nd Submission](https://submit.cs50.io/check50/1e682af7d2cafdce4bb6676274ce69518a68812c)
+- [shirt](https://submit.cs50.io/check50/4feec726460ec90e6752cef17176021ea8d7d4d3)
