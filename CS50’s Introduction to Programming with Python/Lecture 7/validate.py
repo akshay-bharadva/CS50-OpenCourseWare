@@ -14,7 +14,7 @@ $       match end
 [^]     !set of chat - exclude
 A|B     A or B
 (...)   group (i.e, (com|org|net|edu))
-(?...)  non-capturing version
+(?:...) non-capturing group
 
 *** char sets
 \d      decimal digits (i.e, [0-9])
