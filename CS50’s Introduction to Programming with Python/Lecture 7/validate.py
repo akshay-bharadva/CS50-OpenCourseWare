@@ -9,11 +9,13 @@ import re
 {m,n}   m-n reps
 ^       match start
 $       match end
+[]      set of char - include
+[^]     !set of chat - exclude
 """
 
 email = input("What's your email? ").strip()
 
-if re.search(r"^.+@.+\.com$", email):
+if re.search(r"^[^@]+@[^@]+\.com$", email):
     print("Valid")
 else:
     print("Invalid")
