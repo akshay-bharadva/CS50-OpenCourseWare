@@ -1,4 +1,4 @@
-## CS50 - Python
+## CS50’s Introduction to Programming with Python
 
 ### Problem Set 0
 
@@ -78,3 +78,17 @@
   - [1st Submission](https://submit.cs50.io/check50/8d3d1a858f38e6c345aa853bed6aba6b1ea74117)
   - [2nd Submission](https://submit.cs50.io/check50/1e682af7d2cafdce4bb6676274ce69518a68812c)
 - [shirt](https://submit.cs50.io/check50/4feec726460ec90e6752cef17176021ea8d7d4d3)
+
+### Problem Set 7
+
+- numb3rs
+  - [1st Submission](https://submit.cs50.io/check50/a5869ec5d01019ab59f0732b440a8a7f5deab975)
+  - [2nd Submission](https://submit.cs50.io/check50/c382c50ec5ea1bbffae0d9e847ebed61d7489f5f)
+- watch
+  - [1st Submission](https://submit.cs50.io/check50/57ec7dfb86711171aa245fd040b26f23d86eab3b)
+  - [2nd Submission](https://submit.cs50.io/check50/4cf9b1f1d72b8460603688353dfb8f7157891611)
+- [working](https://submit.cs50.io/check50/3c5c90fc3f5e9a86ddea9d56203def308825a3aa)
+- um
+  - [1st Submission](https://submit.cs50.io/check50/84d929fd5fb634d342ac7a7f2335a15adaf9234e)
+  - [2nd Submission](https://submit.cs50.io/check50/96d2f4d37950df52ef8e74afe394cb6f48ea8fdc)
+- [response](https://submit.cs50.io/check50/8cc0bb79d980e8d181a46cded67989ab4b75e169)
