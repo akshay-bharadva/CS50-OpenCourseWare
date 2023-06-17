@@ -1,12 +1,16 @@
+class Student:
+    ...
+
+
 def main():
     student = get_student()
-    print(f"{student['name']} from {student['house']}")
+    print(f"{student.name} from {student.house}")
 
 
 def get_student():
-    student = {}
-    student["name"] = get_name()
-    student["house"] = get_house()
+    student = Student()
+    student.name = get_name()
+    student.house = get_house()
     return student
 
 
