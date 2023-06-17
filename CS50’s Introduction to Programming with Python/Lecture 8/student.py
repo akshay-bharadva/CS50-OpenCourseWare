@@ -1,5 +1,11 @@
 class Student:
-    def __init__(self, name, house): # constructor
+    def __init__(self, name, house):  # constructor
+        if not name:
+            raise ValueError("Missing name")
+        if not house:
+            raise ValueError("Missing house")
+        if house not in ["Gryffindor", "Hufflepuff", "Ravenclaw", "Slytherin"]:
+            raise ValueError(f"Invalid house")
         self.name = name
         self.house = house
 
