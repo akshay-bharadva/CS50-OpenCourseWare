@@ -28,16 +28,16 @@ class Student:
             raise ValueError(f"Invalid house")
         self._house = house
 
+    @classmethod
+    def get(cls):
+        name = input("Name: ")
+        house = input("House: ")
+        return cls(name, house)
+
 
 def main():
-    student = get_student()
+    student = Student.get()
     print(student)
-
-
-def get_student():
-    name = get_name()
-    house = get_house()
-    return Student(name, house)
 
 
 def get_house():
