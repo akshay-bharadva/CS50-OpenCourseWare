@@ -1,12 +1,13 @@
 def main():
     student = get_student()
-    print(f"{student[0]} from {student[1]}")
+    print(f"{student['name']} from {student['house']}")
 
 
 def get_student():
-    name = get_name()
-    house = get_house()
-    return name, house # returning tuple and it's immutable
+    student = {}
+    student["name"] = get_name()
+    student["house"] = get_house()
+    return student
 
 
 def get_house():
