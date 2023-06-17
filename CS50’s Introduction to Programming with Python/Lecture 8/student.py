@@ -6,7 +6,7 @@ def main():
 def get_student():
     name = get_name()
     house = get_house()
-    return name, house
+    return name, house # returning tuple and it's immutable
 
 
 def get_house():
