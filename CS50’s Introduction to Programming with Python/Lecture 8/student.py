@@ -1,5 +1,7 @@
 class Student:
-    ...
+    def __init__(self, name, house): # constructor
+        self.name = name
+        self.house = house
 
 
 def main():
@@ -8,10 +10,9 @@ def main():
 
 
 def get_student():
-    student = Student()
-    student.name = get_name()
-    student.house = get_house()
-    return student
+    name = get_name()
+    house = get_house()
+    return Student(name, house)
 
 
 def get_house():
