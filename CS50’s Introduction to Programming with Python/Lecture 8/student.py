@@ -1,7 +1,12 @@
 def main():
+    name, house = get_student()
+    print(f"{name} from {house}")
+
+
+def get_student():
     name = get_name()
     house = get_house()
-    print(f"{name} from {house}")
+    return name, house
 
 
 def get_house():
