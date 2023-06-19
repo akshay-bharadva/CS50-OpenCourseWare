@@ -92,3 +92,9 @@
   - [1st Submission](https://submit.cs50.io/check50/84d929fd5fb634d342ac7a7f2335a15adaf9234e)
   - [2nd Submission](https://submit.cs50.io/check50/96d2f4d37950df52ef8e74afe394cb6f48ea8fdc)
 - [response](https://submit.cs50.io/check50/8cc0bb79d980e8d181a46cded67989ab4b75e169)
+
+### Problem Set 8
+
+- [seasons](https://submit.cs50.io/check50/74b703b8ca96ac8004c05b285312b34864481047)
+- [jar](https://submit.cs50.io/check50/597611400759c30c5a8ce9632c0f34f4bef62139)
+- [shirtificate](https://submit.cs50.io/check50/aaa6c9530cdcc6ee08798a83c1e1cd3538a2021a)
