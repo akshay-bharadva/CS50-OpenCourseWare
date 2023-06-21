@@ -53,7 +53,9 @@
 - [adieu](https://submit.cs50.io/check50/62d14c23d4f11640a9b16021bdb059cd4fce27ff)
 - game
   - [1st submission](https://submit.cs50.io/check50/d4e65bb1561478a7ca6ca91509a6bfe770c3fcd6)
-- [professor](https://submit.cs50.io/check50/0e6b70cee74450685db11a998f1bdfbe9f32af3e)
+- professor
+  - [1st submission](https://submit.cs50.io/check50/0e6b70cee74450685db11a998f1bdfbe9f32af3e)
+  - [2nd submission](https://submit.cs50.io/check50/8d29aa9ee92e2c1394abba178e22fbf28c54c4ef)
 - [bitcoin](https://submit.cs50.io/check50/63ce4dbd597d53a923feebd59619d07e38aeb7de)
 
 ### Problem Set 5
