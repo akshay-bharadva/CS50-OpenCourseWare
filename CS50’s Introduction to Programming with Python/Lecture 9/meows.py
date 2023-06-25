@@ -1,4 +1,9 @@
-import sys
+import argparse
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument("-n", type=int, default=1, help="meow n times")
+args = parser.parse_args()
 
 
 def meow(n: int) -> str:
@@ -14,13 +19,6 @@ def meow(n: int) -> str:
     return "meow " * n
 
 
-if len(sys.argv) == 1:
-    meows: str = meow(1)
-    print(meows)
-if len(sys.argv) == 3 and sys.argv[1] == "-n":
-    meows: str = meow(int(sys.argv[2]))
-    print(meows)
-else:
-    number: int = int(input("Number: ").strip())
-    meows: str = meow(number)
+if __name__ == "__main__":
+    meows = meow(args.n)
     print(meows)
