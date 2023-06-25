@@ -1,3 +1,6 @@
+import sys
+
+
 def meow(n: int) -> str:
     """
     Meow n times
@@ -11,6 +14,13 @@ def meow(n: int) -> str:
     return "meow " * n
 
 
-number: int = int(input("Number: ").strip())
-meows: str = meow(number)
-print(meows)
+if len(sys.argv) == 1:
+    meows: str = meow(1)
+    print(meows)
+if len(sys.argv) == 3 and sys.argv[1] == "-n":
+    meows: str = meow(int(sys.argv[2]))
+    print(meows)
+else:
+    number: int = int(input("Number: ").strip())
+    meows: str = meow(number)
+    print(meows)
