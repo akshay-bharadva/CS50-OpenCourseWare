@@ -9,6 +9,7 @@ def is_adult(age):
     return age > 18
 
 
-adults = filter(is_adult, numbers)
+# adults = filter(is_adult, numbers)
+adults = filter(lambda age: age > 18, numbers)
 
 print("adults:", sorted(adults))
